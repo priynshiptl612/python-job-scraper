@@ -11,6 +11,8 @@ This project automatically collects job listings from a website and stores them 
 
 This scraper extracts job-related information from the following website:
 
+🔗 https://roadmap.sh/projects/job-listings-scraper
+
 🔗 https://realpython.github.io/fake-jobs/
 
 The collected data includes:
